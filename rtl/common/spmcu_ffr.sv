@@ -1,7 +1,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
-// Hiding to study - Simple MCU
-// -----------------------------
+// Sneak & Study - Simple MCU
+// --------------------------
 // Filename: spmcu_ffr.sv
 // Author  : Long Nguyen
 // Detail  : [Common] DFF with active-low asynchronous reset

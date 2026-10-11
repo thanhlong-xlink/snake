@@ -1,7 +1,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
-// Hiding to study - Simple MCU
-// -----------------------------
+// Sneak & Study - Simple MCU
+// --------------------------
 // Filename: spmcu.sv
 // Author  : Long Nguyen
 // Detail  : [Simple MCU] Top

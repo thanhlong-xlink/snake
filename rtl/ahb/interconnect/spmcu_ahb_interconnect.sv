@@ -1,7 +1,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
-// Hiding to study - Simple MCU
-// -----------------------------
+// Sneak & Study - Simple MCU
+// --------------------------
 // Filename: spmcu_ahb_interconnect.sv
 // Author  : Long Nguyen
 // Detail  : [AHB Interconnect] Top

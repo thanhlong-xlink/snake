@@ -1,7 +1,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
-// Hiding to study - Simple MCU
-// -----------------------------
+// Sneak & Study - Simple MCU
+// --------------------------
 // Filename: spmcu_rr_arbiter.sv
 // Author  : Long Nguyen
 // Detail  : [AHB Interconnect] Round Robin arbiter
